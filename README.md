@@ -23,7 +23,6 @@ Passionate about coding, building things from scratch, and diving into how hardw
 - Improving my skills for real-world ICT challenges
 
 ## 📫 Get in Touch
-- GitHub: @yourusername (you're already here 😄)
-- Email: your.email@example.com (add yours if you want)
+- GitHub: @lukemark123 (you're already here 😄)
 
 Thanks for stopping by! Feel free to star repos or drop suggestions.
