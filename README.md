@@ -1,6 +1,6 @@
 # Hi there, I'm Luke 👋
 
-I'm a vocational student in **Information and Communications Technology** at [Vantaa Vocational College Varia](https://varia.vantaa.fi/en) in Finland 🇫🇮.
+I'm a vocational student in **Information and Communications Technology** at [Vantaa Vocational College Varia](https://varia.vantaa.fi/en) in Finland.
 
 Passionate about coding, building things from scratch, and diving into how hardware works.
 
