@@ -1,16 +1,31 @@
-## Hi there 👋
+👋 Hi, I’m Luke
 
-<!--
-**lukemark123/lukemark123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a tech enthusiast studying Tieto ja Viesti at Vantaa Varia in Finland. I enjoy exploring programming, hardware, and unique projects whenever I have free time. My current focus is on Python and C++, but I’m always eager to learn new technologies and experiment with hardware.
 
-Here are some ideas to get you started:
+🧰 Tech & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages: Python, C++
+
+Interests: Hardware, electronics, embedded systems, DIY projects
+
+Other: Git, Linux, APIs
+
+🚀 Projects
+
+I like creating unique projects when I’m bored, including:
+
+Python scripts for automation or fun experiments
+
+C++ programs for performance and problem-solving
+
+Hardware-based projects (still learning and experimenting)
+
+(Check out my repositories to see what I’ve built!)
+
+🌱 Learning
+
+Advanced hardware interfacing
+
+Embedded systems
+
+New programming paradigms and tools
