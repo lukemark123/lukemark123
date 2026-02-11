@@ -27,6 +27,10 @@ Passionate about coding, building things from scratch, and diving into how hardw
 - Exploring hardware integration with code (sensors, microcontrollers, etc.)
 - Improving my skills for real-world ICT challenges
 
+## 💻 Project
+-  real-time terminal-based chat application called [Flux](https://github.com/lukemark123/Flux)
+-  A secure, offline[ password manager](https://github.com/lukemark123/Offline-Password-Manager) for Windows 
+
 ## 📫 Get in Touch
 - GitHub: @lukemark123 (you're already here 😄)
 
